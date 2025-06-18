@@ -109,6 +109,7 @@
     "postcss": "^8.5.4",
     "prettier": "^3.5.3",
     "prettier-plugin-packagejson": "^2.5.15",
+    "prettier-plugin-tailwindcss": "^0.6.12",
     "tailwindcss": "4.1.9",
     "tsx": "^4.20.1",
     "typescript": "5.8.3"
